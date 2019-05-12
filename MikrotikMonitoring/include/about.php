@@ -60,7 +60,7 @@ if (!isset($_SESSION["mikhmon"])) {
       Licence : <a href="https://github.com/laksa19/mikhmonv2/blob/master/LICENSE">GPLv2</a>
     </li>
     <li>
-      API Class : <a href="https://github.com/BenMenking/routeros-api">routeros-api</a>
+      API Class : <a href="https://github.com/BenMenking/routeros-api">Mikrotik RouterOs-api</a>
     </li>
     <li>
       GitHub : <a href="https://github.com/guntursulistyo">github.com/guntursulistyo</a>
@@ -86,7 +86,7 @@ if (!isset($_SESSION["mikhmon"])) {
   </div>
   <div class="card-body">
   <div class="iFWrapper">
-    <iframe src="https://github.com/guntursulistyo/mikrotikhotspotmonitoring/blob/master/README.md" ></iframe>
+    <iframe src="https://github.com/guntursulistyo/mikrotikhotspotmonitoring"></iframe>
   </div>
   </div>
 </div>
